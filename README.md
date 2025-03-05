@@ -9,4 +9,4 @@ Listed name is used when I'm online.
 
 Just learning mathmetic recently,it's quite difficult for me.😥
 
-Mainly work on golang,and sometimes work on python.
+Mainly work on golang,and sometimes work on python.But this days I'm working on node.js
