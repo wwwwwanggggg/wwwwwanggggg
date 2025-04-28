@@ -7,6 +7,11 @@ Listed name is used when I'm online.
 
 ## Note
 
-Just learning mathmetic recently,it's quite difficult for me.😥
+Just learning mathmetic,it's quite difficult for me.😥
 
 Mainly work on golang,and sometimes work on python.But these days I'm working on node.js
+
+HaHaHa,really like real varibiable functions hahaha
+
+## Status
+Working on liansangyu's backend recently,a messy project!
